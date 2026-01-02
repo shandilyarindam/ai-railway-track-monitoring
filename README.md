@@ -20,8 +20,3 @@ Sensors → Arduino → Serial Data → AI Detection Algorithm → Dashboard & A
 ## Dashboard
 Streamlit dashboard visualizes sensor readings and highlights tampering alerts in real time.
 
-## How to Run
-1. Upload Arduino code to simulation
-2. Run AI ingestion script:
-   ```bash
-   python ai/data_ingestion.py
