@@ -25,6 +25,3 @@ Streamlit dashboard visualizes sensor readings and highlights tampering alerts i
 2. Run AI ingestion script:
    ```bash
    python ai/data_ingestion.py
-=======
-# ai-railway-track-monitoring
->>>>>>> ba5a4c926c61d69de0999bb4afa8731762d996e2
