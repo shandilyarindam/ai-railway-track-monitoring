@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI-Based Railway Track Monitoring
 
 This project presents an AI-powered system to monitor **railway tracks** for tampering or anomalies using IoT sensors, real-time data acquisition, and machine learning.
