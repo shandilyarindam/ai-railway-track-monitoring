@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI-Based Railway Track Monitoring
 
 This project presents an AI-powered system to monitor **railway tracks** for tampering or anomalies using IoT sensors, real-time data acquisition, and machine learning.
@@ -21,11 +20,3 @@ Sensors → Arduino → Serial Data → AI Detection Algorithm → Dashboard & A
 ## Dashboard
 Streamlit dashboard visualizes sensor readings and highlights tampering alerts in real time.
 
-## How to Run
-1. Upload Arduino code to simulation
-2. Run AI ingestion script:
-   ```bash
-   python ai/data_ingestion.py
-=======
-# ai-railway-track-monitoring
->>>>>>> ba5a4c926c61d69de0999bb4afa8731762d996e2
